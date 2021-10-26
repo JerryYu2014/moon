@@ -1,0 +1,10 @@
+lib/
+.vscode/
+dev-dist/
+tsc-dist/
+
+note.md
+cmd.bat
+tsconfig.json
+webpack.config.js
+webpack.lib.config.js
