@@ -1,6 +1,6 @@
 {
   "name": "moonlight-utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "moonlight-utils is a javaScript utility library",
   "main": "dist/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JerryYu2014/moonlight-utils.git"
+    "url": "git+https://github.com/JerryYu2014/moonlight-fe-libs.git"
   },
   "keywords": [
     "javascript",
@@ -24,9 +24,9 @@
   "author": "advoster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JerryYu2014/moonlight-utils/issues"
+    "url": "https://github.com/JerryYu2014/moonlight-fe-libs/issues"
   },
-  "homepage": "https://github.com/JerryYu2014/moonlight-utils#readme",
+  "homepage": "https://github.com/JerryYu2014/moonlight-fe-libs/tree/main/moonlight-utils#readme",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",

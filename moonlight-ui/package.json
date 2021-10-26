@@ -1,6 +1,6 @@
 {
     "name": "moonlight-ui-x",
-    "version": "1.0.8",
+    "version": "1.0.11",
     "description": "moonlight-ui-x is a ui component library based on vue.js",
     "main": "lib/mlui.js",
     "scripts": {
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JerryYu2014/moonlight-ui.git"
+        "url": "git+https://github.com/JerryYu2014/moonlight-fe-libs.git"
     },
     "keywords": [
         "ui",
@@ -28,9 +28,9 @@
     "author": "advoster <648542313@qq.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/JerryYu2014/moonlight-ui/issues"
+        "url": "https://github.com/JerryYu2014/moonlight-fe-libs/issues"
     },
-    "homepage": "https://github.com/JerryYu2014/moonlight-ui#readme",
+    "homepage": "https://github.com/JerryYu2014/moonlight-fe-libs/tree/main/moonlight-ui#readme",
     "dependencies": {
         "moonlight-algorithm": "^1.0.8",
         "moonlight-utils": "^1.0.10",

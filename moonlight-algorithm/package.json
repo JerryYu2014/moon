@@ -1,6 +1,6 @@
 {
   "name": "moonlight-algorithm",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "moonlight-algorithm is a algorithm library",
   "main": "dist/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JerryYu2014/moonlight-algorithm.git"
+    "url": "git+https://github.com/JerryYu2014/moonlight-fe-libs.git"
   },
   "keywords": [
     "javascript",
@@ -24,9 +24,9 @@
   "author": "advoster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JerryYu2014/moonlight-algorithm/issues"
+    "url": "https://github.com/JerryYu2014/moonlight-fe-libs/issues"
   },
-  "homepage": "https://github.com/JerryYu2014/moonlight-algorithm#readme",
+  "homepage": "https://github.com/JerryYu2014/moonlight-fe-libs/tree/main/moonlight-algorithm#readme",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
