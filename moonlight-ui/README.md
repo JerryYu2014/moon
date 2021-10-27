@@ -35,3 +35,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ```
 npm i moonlight-ui-x --registry=https://registry.npmjs.org/
 ```
+
+```
+yarn add moonlight-ui-x --registry=https://registry.npmjs.org/
+```

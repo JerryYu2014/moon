@@ -1,5 +1,10 @@
-lib/
 .vscode/
+
+lib/
+public/
+src/
+test/
+
 dev-dist/
 tsc-dist/
 

@@ -14,8 +14,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "moonlight-algorithm": "^1.0.1",
-    "moonlight-ui-x": "^1.0.5",
+    "moonlight-algorithm": "^1.0.10",
+    "moonlight-ui-x": "^1.0.11",
+    "moonlight-utils": "^1.0.14",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

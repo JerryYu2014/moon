@@ -32,8 +32,8 @@
     },
     "homepage": "https://github.com/JerryYu2014/moonlight-fe-libs/tree/main/moonlight-ui#readme",
     "dependencies": {
-        "moonlight-algorithm": "^1.0.8",
-        "moonlight-utils": "^1.0.10",
+        "moonlight-algorithm": "^1.0.10",
+        "moonlight-utils": "^1.0.14",
         "vue": "^2.5.2",
         "vue-router": "^3.0.1"
     },

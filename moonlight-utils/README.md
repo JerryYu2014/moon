@@ -1,4 +1,5 @@
 # moonlight-utils
+
 moonlight-utils is a JavaScript utility library
 
 ## Usage
@@ -7,4 +8,8 @@ moonlight-utils is a JavaScript utility library
 
 ```
 npm install moonlight-utils --registry=https://registry.npmjs.org/
+```
+
+```
+yarn add moonlight-utils --registry=https://registry.npmjs.org/
 ```
